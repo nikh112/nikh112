@@ -2,7 +2,7 @@
 
 **2nd year CS undergrad at UW-Madison**
 
-I specialize in full-stack UI architecture and robust game engine mechanics. Currently experimenting building open-source physics simulations in Rust. 
+Computer Science student at UW–Madison with experience building game systems, web applications, and physics simulations. Interested in software engineering, performance optimization, and scientific computing.
 
 ### 💻 Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
